@@ -1,0 +1,15 @@
+.content {
+  width: 100%;
+  margin-top: 30px;
+  padding: 20px;
+  background-color: white;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.side-image {
+  width: 180px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
